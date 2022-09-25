@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WINDOWS_Calculator:jar">
+    <output-path>$PROJECT_DIR$/../../NEA BUILDS/WINDOWS_Graph_Calculator</output-path>
+    <root id="archive" name="WINDOWS_Calculator.jar">
+      <element id="module-output" name="WINDOWS_Calculator" />
+    </root>
+  </artifact>
+</component>
